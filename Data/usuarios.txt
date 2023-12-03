@@ -1,0 +1,6 @@
+arthur|arthur|oliveira|123|1
+marcos|marcos|vasconcelos|123|2
+amanda|amanda|oliveira|123|2
+arthur1|arthur1|oliveira1|123|1
+teste|teste|teste|123|1
+testefinal|testefinal|testefinal|123|2

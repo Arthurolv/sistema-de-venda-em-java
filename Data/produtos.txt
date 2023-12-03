@@ -1,0 +1,6 @@
+1|empresa x|50|0|
+1|empresa y|100|5|empresa
+1|empresa a|20|1|empresa1
+2|empresa teste|10|1|tetse
+aaa|aa|100|1|
+tt|t|410|1|
